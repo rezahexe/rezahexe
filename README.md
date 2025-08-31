@@ -1,12 +1,14 @@
 # Hello I am Rezah
 ## Hi there 👋
-Welcome to my GitHub account  
+Welcome to my GitHub profile.  
+  
+
 ## Professional Statements
 
-*Summary*  
 *Key Achievements*  
 *Key Skills*  
-*Interests*
+*Interests*  
+*Hobbies*
 
 
 
