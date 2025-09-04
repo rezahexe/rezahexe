@@ -1,7 +1,7 @@
 # Hello I am Rezah
 Welcome to my GitHub profile.  
 
-- 🔭 I’m currently working on a **gamified fitness app** built with React Native, TypeScript, Three.js, Supabase, and Shopify, integrating real-time user activity data into a progression system.
+- 🔭 I’m currently working on a **gamified fitness app** built with React Native, TypeScript, Three.js, Supabase, and Shopify, integrating real-time user activity data into a progression system. I’m also developing a GitBook to organize and host all of my notes, creating a central knowledge base that documents everything I’ve been learning.
 - 🌱 I’m currently learning **advanced cybersecurity, reverse engineering, and SOC operations**, with hands-on practice in SIEM, incident response, and cloud security.
 - 👯 I’m looking to collaborate on **projects involving web development, embedded systems, and cybersecurity tools**.
 - 🤔 I’m looking for help with **expanding my knowledge in malware analysis, penetration testing, and secure software architecture**.
